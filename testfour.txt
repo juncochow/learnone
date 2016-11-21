@@ -1,2 +1,2 @@
 this is the forth test file
-and now edit in master branch
+merge conflict is fixed
