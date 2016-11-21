@@ -1,2 +1,2 @@
 this is a test document to learn git
-now i input new contents
+now i input some new contents
