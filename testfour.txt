@@ -1,2 +1,0 @@
-this is the forth test file
-merge conflict is fixed
